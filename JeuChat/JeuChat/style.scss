@@ -1,0 +1,17 @@
+body {
+  div {
+    img {
+      position: absolute;
+      margin-left: 15%;
+      margin-bottom: 2%;
+      width: 65%;
+      height: 90%;
+    }
+  }
+  div:nth-of-type(3) {
+    position: absolute;
+    top: 95%;
+    left: 40%;
+    margin-right: 25%;
+  }
+}
